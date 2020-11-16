@@ -500,6 +500,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkSpeed: 5
+  runSpeed: 9
   lookSensitivity: 2
   cameraRotationLimit: 45
   playerCamera: {fileID: 963194227}
