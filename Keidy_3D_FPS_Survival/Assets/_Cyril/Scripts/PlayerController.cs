@@ -14,7 +14,6 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private float crouchSpeed;
 
-
     [SerializeField]
     private float jumpForce;
 
